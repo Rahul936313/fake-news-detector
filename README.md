@@ -15,14 +15,23 @@ This project was built as part of my learning journey in AI & Data Science.
 
 ## 📂 Project Structure
 news_detection/
+
 │── app.py # Streamlit web app
+
 │── train_model.py # Script to train model and save .pkl files
+
 │── merged.py # Script to clean & merge datasets
+
 │── datasets/ # Raw datasets (ignored in .gitignore)
+
 │── fake_news_model.pkl # Saved trained model (ignored in .gitignore)
+
 │── vectorizer.pkl # Saved TF-IDF vectorizer (ignored in .gitignore)
+
 │── merged_dataset.csv # Clean merged dataset (ignored in .gitignore)
+
 │── requirements.txt # Dependencies
+
 │── README.md # Project documentation
 
 
