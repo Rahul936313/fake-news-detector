@@ -40,7 +40,7 @@ news_detection/
 ## ⚡ How to Run Locally
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/fake-news-detector.git
+   git clone https://github.com/Rahul936313/fake-news-detector.git
    cd fake-news-detector
 
 2. Install dependencies:
