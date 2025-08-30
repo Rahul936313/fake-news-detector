@@ -53,7 +53,7 @@ news_detection/
 => streamlit run app.py
 
 
-🛠️ Requirements
+🛠️ Requirements:
 => pip install -r requirements.txt
 
 
