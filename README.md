@@ -6,10 +6,10 @@ This project was built as part of my learning journey in AI & Data Science.
 ---
 
 ## 🚀 Features
-- Logistic Regression model trained on **Fake vs Real news dataset**
+- Logistic Regression model trained on **Fake vs Real news dataset**.
 - Text preprocessing using **TF-IDF**
 - Simple **Streamlit interface**
-- Prediction with probability scores (Fake / Real)
+- Prediction with probability scores (Fake / Real).
 
 ---
 
